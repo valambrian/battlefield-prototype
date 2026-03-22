@@ -1,0 +1,11 @@
+# Godot-specific ignores
+.godot/
+*.uid
+
+# Import files
+*.import
+
+# Mono/C# ignores (not used, but safe to include)
+.mono/
+data_*/
+mono_crash.*.json

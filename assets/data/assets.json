@@ -1,0 +1,322 @@
+[
+  {
+	"name": "Orc Grunt",
+	"image": "dg_uniques32_clone.png",
+	"x": 286,
+	"y": 0,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Orc Warband",
+	"image": "dg_classm32.png",
+	"x": 96,
+	"y": 320,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Orc Skirmisher",
+	"image": "dg_classm32_clone.png",
+	"x": 224,
+	"y": 320,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Orc Barbarian",
+	"image": "dg_uniques32_clone.png",
+	"x": 64,
+	"y": 32,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Elf Spearman",
+	"image": "dg_classm32_clone.png",
+	"x": 96,
+	"y": 128,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Elf Rogue",
+	"image": "dg_uniques32_clone.png",
+	"x": 286,
+	"y": 96,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Elf Archer",
+	"image": "dg_classm32_clone.png",
+	"x": 192,
+	"y": 32,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Elf Ranger",
+	"image": "dg_classm32_clone.png",
+	"x": 224,
+	"y": 32,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Dwarf Militia",
+	"image": "dg_classm32_clone.png",
+	"x": 224,
+	"y": 96,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Dwarf Gunner",
+	"image": "dg_classm32_clone.png",
+	"x": 128,
+	"y": 96,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Dwarf Fighter",
+	"image": "dg_classm32_clone.png",
+	"x": 32,
+	"y": 96,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Dwarf Defender",
+	"image": "dg_classm32_clone.png",
+	"x": 64,
+	"y": 96,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Human Militia",
+	"image": "dg_humans32_clone.png",
+	"x": 128,
+	"y": 0,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Human Warrior",
+	"image": "dg_classm32_clone.png",
+	"x": 224,
+	"y": 0,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Human Knight",
+	"image": "dg_uniques32_clone.png",
+	"x": 160,
+	"y": 64,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Human Archer",
+	"image": "dg_humans32_clone.png",
+	"x": 96,
+	"y": 32,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Human Fighter",
+	"image": "dg_humans32_clone.png",
+	"x": 160,
+	"y": 32,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Human Spearman",
+	"image": "dg_humans32_clone.png",
+	"x": 128,
+	"y": 32,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Human Skirmisher",
+	"image": "dg_classm32_clone.png",
+	"x": 192,
+	"y": 0,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Orc Evoker",
+	"image": "dg_classm32.png",
+	"x": 32,
+	"y": 320,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Orc Conjurer",
+	"image": "dg_classm32.png",
+	"x": 64,
+	"y": 320,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Elf Enchanter",
+	"image": "dg_classm32.png",
+	"x": 32,
+	"y": 128,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Elf Illusionist",
+	"image": "dg_classm32.png",
+	"x": 64,
+	"y": 128,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Dwarf Abjurer",
+	"image": "dg_classm32.png",
+	"x": 32,
+	"y": 96,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Dwarf Transmuter",
+	"image": "dg_classm32.png",
+	"x": 64,
+	"y": 96,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Lesser Chaos Spawn",
+	"image": "dg_monster632.png",
+	"x": 160,
+	"y": 320,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Chaos Spawn",
+	"image": "dg_uniques32_clone.png",
+	"x": 32,
+	"y": 224,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Greater Chaos Spawn",
+	"image": "dg_uniques32.png",
+	"x": 32,
+	"y": 224,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Red Dragon",
+	"image": "dg_monster632.png",
+	"x": 96,
+	"y": 32,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Orc Holy Warrior",
+	"image": "dg_uniques32_clone.png",
+	"x": 160,
+	"y": 32,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Elf Arcane Archer",
+	"image": "dg_classm32_clone.png",
+	"x": 160,
+	"y": 32,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Elf Master Enchanter",
+	"image": "dg_classm32_clone.png",
+	"x": 32,
+	"y": 128,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Elf Master Illusionist",
+	"image": "dg_classm32_clone.png",
+	"x": 64,
+	"y": 128,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Elf Holy Warrior",
+	"image": "dg_classm32_clone.png",
+	"x": 128,
+	"y": 32,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Dwarf Champion",
+	"image": "dg_classm32_clone.png",
+	"x": 192,
+	"y": 96,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Dwarf Paladin",
+	"image": "dg_classm32_clone.png",
+	"x": 0,
+	"y": 96,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Dwarf Healer",
+	"image": "dg_classm32.png",
+	"x": 128,
+	"y": 96,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Dwarf Sharpshooter",
+	"image": "dg_classm32_clone.png",
+	"x": 192,
+	"y": 64,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Dwarf Holy Warrior",
+	"image": "dg_classm32_clone.png",
+	"x": 224,
+	"y": 64,
+	"width": 32,
+	"height": 32
+  },
+  {
+	"name": "Elf Archmage",
+	"image": "dg_classm32_clone.png",
+	"x": 64,
+	"y": 128,
+	"width": 32,
+	"height": 32
+  }
+]
