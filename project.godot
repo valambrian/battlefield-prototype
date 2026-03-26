@@ -17,6 +17,7 @@ config/icon="res://icon.svg"
 
 [autoload]
 
+GameState="*res://scripts/game_state.gd"
 DragManager="*res://scripts/drag_manager.gd"
 
 [display]
